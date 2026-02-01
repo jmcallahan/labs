@@ -1,0 +1,50 @@
+
+Microsoft (R) Windows (R) Operating System Group Policy Result tool v2.0
+c Microsoft Corporation. All rights reserved.
+
+Created on ?2/?1/?2026 at 10:26:18 AM
+
+
+RSOP data for TheAlamo\WendyV on THEALAMO : Logging Mode
+---------------------------------------------------------
+
+OS Configuration:            Standalone Workstation
+OS Version:                  10.0.26200
+Site Name:                   N/A
+Roaming Profile:             N/A
+Local Profile:               C:\Users\WendyV
+Connected over a slow link?: No
+
+
+USER SETTINGS
+--------------
+    
+    Last time Group Policy was applied: 2/1/2026 at 10:15:20 AM
+    Group Policy was applied from:      N/A
+    Group Policy slow link threshold:   500 kbps
+    Domain Name:                        TheAlamo
+    Domain Type:                        <Local Computer>
+    
+    Applied Group Policy Objects
+    -----------------------------
+        N/A
+
+    The following GPOs were not applied because they were filtered out
+    -------------------------------------------------------------------
+        Local Group Policy
+            Filtering:  Not Applied (Empty)
+
+    The user is a part of the following security groups
+    ---------------------------------------------------
+        None
+        Everyone
+        BUILTIN\Users
+        NT AUTHORITY\INTERACTIVE
+        CONSOLE LOGON
+        NT AUTHORITY\Authenticated Users
+        This Organization
+        Local account
+        LOCAL
+        NTLM Authentication
+        Medium Mandatory Level
+        
