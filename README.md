@@ -1,5 +1,5 @@
 # Lab Work Overview
-### This repo contains lab work in preparation for CompTIA A+, Net+, Sec+ and CySA+ exams.### CompTIA Domain Coverage (High-Level)
+### This repo contains lab work in preparation for CompTIA A+, Net+, Sec+ and CySA+ exams.
 
 These labs collectively touch the following CompTIA domains through applied tasks:
 - Operating Systems & Software Troubleshooting
