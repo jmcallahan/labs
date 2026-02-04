@@ -14,5 +14,5 @@ These labs collectively touch the following CompTIA domains through applied task
 ## provision-vm-fix-time-drift
 - Built a standardized Windows desktop VM using VMware, installed the OS and guest tools, and corrected VM time drift via host synchronization. Focused on why time drift causes real authentication and logging failures, how guest tools mitigate it, and how to document a clean, repeatable build with evidence.
 
-## Windows Performance Monitoring & System Restore Lab
+## windows-performance-monitoring
 - Used built-in Windows tools to diagnose performance degradation, collect real-time and historical metrics, review system stability, and roll a workstation back to a known-good state. Emphasized correct tool selection (Resource Monitor, Performance Monitor, Reliability Monitor), evidence-based diagnosis, and validating rollback via logs and PowerShell rather than assuming recovery succeeded.
