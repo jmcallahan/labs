@@ -21,6 +21,7 @@
 
 ## Lab Tasks
 [Steps]
+- [ ] Complete [per task step]
 
 ## Observations & Failure Modes
 [What broke]
